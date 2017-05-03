@@ -27,26 +27,69 @@ namespace Proyecto_SO_I.Controllers
 
         public void MethodsToThread()
         {
-            Thread newThread2 = new Thread(() => MethodC(this.path));
+            Thread newThread = new Thread(() => MethodA(this.path));
+            newThread.Start();
+
+            Thread newThread2 = new Thread(() => MethodB(this.path));
             newThread2.Start();
+
+            Thread newThread3 = new Thread(() => MethodC(this.path));
+            newThread3.Start();
+
+            Thread newThread4 = new Thread(() => MethodD(this.path));
+            newThread4.Start();
+
+            Thread newThread5 = new Thread(() => MethodE(this.path));
+            newThread5.Start();
         }
 
         public void MethodA(string path)
         {
-            
+            imageHandler.CurrentBitmap = (Bitmap)Image.FromFile(path);
+            imageHandler.BitmapPath = path;
+            imageHandler.SetGrayScale();
+
+            string newPath = path + "F";
+            imageHandler.SaveBitmap(newPath);
         }
 
         public void MethodB(string path)
         {
-            
+             imageHandler.CurrentBitmap = (Bitmap)Image.FromFile(path);
+            imageHandler.BitmapPath = path;
+            imageHandler.SetInvert();
+
+            string newPath = path + "F";
+            imageHandler.SaveBitmap(newPath);
         }
 
         public void MethodC(string path)
         {
-            var uri = new Uri(path, UriKind.Absolute);
             imageHandler.CurrentBitmap = (Bitmap)Image.FromFile(path);
             imageHandler.BitmapPath = path;
             imageHandler.SetGamma(120, 120, 120);
+
+            string newPath = path + "F";
+            imageHandler.SaveBitmap(newPath);
+
+        }
+
+        public void MethodD(string path)
+        {
+            imageHandler.CurrentBitmap = (Bitmap)Image.FromFile(path);
+            imageHandler.BitmapPath = path;
+            imageHandler.SetContrast(12);
+
+            string newPath = path + "F";
+            imageHandler.SaveBitmap(newPath);
+
+        }
+
+        public void MethodE(string path)
+        {
+            imageHandler.CurrentBitmap = (Bitmap)Image.FromFile(path);
+            imageHandler.BitmapPath = path;
+            imageHandler.SetBrightness(120);
 
             string newPath = path + "F";
             imageHandler.SaveBitmap(newPath);
