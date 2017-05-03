@@ -1,0 +1,54 @@
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\ApplicationInsights.config
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\csc.exe
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\vbc.exe
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\VBCSCompiler.exe
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Proyecto SO I.dll.config
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Proyecto SO I.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Proyecto SO I.pdb
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Antlr3.Runtime.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.Web.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.WindowsServer.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.ApplicationInsights.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.Web.Infrastructure.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Newtonsoft.Json.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Helpers.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Mvc.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Optimization.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Razor.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.WebPages.Deployment.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.WebPages.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.WebPages.Razor.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\WebGrease.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.Web.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.AI.WindowsServer.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.ApplicationInsights.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Helpers.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Mvc.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Optimization.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.Razor.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.WebPages.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.WebPages.Deployment.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\System.Web.WebPages.Razor.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Antlr3.Runtime.pdb
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\Newtonsoft.Json.xml
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\obj\Debug\Proyecto SO I.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\obj\Debug\Proyecto SO I.dll
+c:\users\andre\documents\visual studio 2015\Projects\Proyecto SO I\Proyecto SO I\obj\Debug\Proyecto SO I.pdb
+C:\Users\andre\Documents\Visual Studio 2015\Projects\Proyecto SO I\Proyecto SO I\bin\img\imagen.jpg
